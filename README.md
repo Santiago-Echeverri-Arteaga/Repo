@@ -1,4 +1,4 @@
-# Bienvenidos a mi Repositorio
+# Bienvenidos al repositorio del curso de Programación
 
 ## *Santiago Echeverri Arteaga*
 
