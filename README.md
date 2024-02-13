@@ -5,4 +5,4 @@
 
 Este es un ejemplo inicial para mostrar como se usa el Git y GitHub
 
-Clase: Programación
+Clase: Programación del programa de Física
